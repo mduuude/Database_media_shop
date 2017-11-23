@@ -1,0 +1,11 @@
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('1', 'Bob', '666-66-01', 'bobby@mail.com', 'Kyiv', 'Tarasa Shevchenka bvd., 21, 193 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('2', 'Bill', '666-66-02', 'bill@mail.com', 'Odesa', 'Peremohy str., 9, 12 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('3', 'Bradley', '666-66-03', 'bradley@mail.com', 'Kyiv', 'Velyka str., 2, 17 app.', 'true');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('4', 'Baron', '666-66-04', 'baron@mail.com', 'Cherkasy', 'Zelena str., 29', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('5', 'Becky', '666-66-05', 'becky@mail.com', 'Odesa', 'Morskyy bvd., 54, 3 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('6', 'Bro', '666-66-06', 'bro@mail.com', 'Kharkin', 'Vyshneva str., 64, 53 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('7', 'Bismark', '666-66-07', 'bismark@mail.com', 'Odesa', 'Richna str., 51, 43 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('8', 'Bran', '666-66-08', 'bran@mail.com', 'Simferopol', 'Dachna str., 14, 42 app.', 'true');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('9', 'Bart', '666-66-09', 'bart@mail.com', 'Kyiv', 'Rozumovskoho str., 8, 25 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('10', 'Bronson', '666-66-10', 'bronson@mail.com', 'Chernivtsi', 'Lisnyy bvd., 34, 231 app.', 'false');
+INSERT INTO `media_shop`.`customer` (`id`, `name`, `phone`, `e-mail`, `city`, `adress`, `is_regular`) VALUES ('11', 'Brenda', '666-66-11', 'brenda@mail.com', 'Kyiv', '3tya liniya str., 51', 'false');

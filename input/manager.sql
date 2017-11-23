@@ -1,0 +1,9 @@
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('1', 'Adrian', '555-55-01');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('2', 'Agness', '555-55-02');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('3', 'Aria', '555-55-03');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('4', 'Antuane', '555-55-04');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('5', 'Archibald', '555-55-05');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('6', 'Aaron', '555-55-06');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('7', 'Alfred', '555-55-07');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('8', 'Adolf', '555-55-08');
+INSERT INTO `media_shop`.`manager` (`id`, `name`, `phone`) VALUES ('9', 'Abraham', '555-55-09');

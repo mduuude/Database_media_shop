@@ -1,0 +1,14 @@
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('1', 'Parlophone Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('2', 'Capitol Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('3', 'Columbia Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('4', 'Motown Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('5', 'Rolling Stones Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('6', 'Epic Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('7', 'Apple Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('8', 'RCA Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('9', 'MGM Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('10', 'Track Record');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('11', 'DGC Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('12', 'CBS Records International');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('13', 'Warner Bros. Records');
+INSERT INTO `media_shop`.`recording_company` (`id`, `name`) VALUES ('14', 'Chess Records');
